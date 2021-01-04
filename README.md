@@ -2,10 +2,10 @@
 An interactive map showing poverty and ALICE (Asset Limited, Income Constrained, Employed) across zip codes located in Southwestern Indiana and Henderson County, KY. 
 
 ## Built With
--[Python](https://www.python.org/)
--[NumPy](https://numpy.org/)
--[Geopandas](https://geopandas.org/)
--[Bokeh](https://bokeh.org/)
+- [Python](https://www.python.org/)
+- [NumPy](https://numpy.org/)
+- [Geopandas](https://geopandas.org/)
+- [Bokeh](https://bokeh.org/)
 
 # Getting Started
 ## Prerequisites
@@ -39,5 +39,5 @@ Any contributions that you would like to make are greatly appreciated!
 Distributed under the MIT License. See `LICENSE` for more information
 
 # Contact
-Jessica Huhnke - huhnkejessica@gmail.com
+Jessica Huhnke - huhnkejessica@gmail.com <br/>
 Project Link: https://github.com/jkhuhnke11/Southwestern-Indiana-Poverty-Map/
