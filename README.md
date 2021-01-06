@@ -20,9 +20,7 @@ The following must be installed for the program to run. Packages can be installe
 ## Installation
 1. Clone the repository
 > git clone https://github.com/jkhuhnke11/Southwestern-Indiana-Poverty-Map.git
-2. Install NPM Packages
-> npm install
-3. Run from command line
+2. Run from command line
 > bokeh serve --show Map-V2.ipynb
 
 NOTE: Map-V2.ipynb can also be ran using Jupyter Notebook, but will be missing the interactive features. 
