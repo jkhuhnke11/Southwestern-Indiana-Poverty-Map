@@ -10,7 +10,7 @@ An interactive map showing poverty and ALICE (Asset Limited, Income Constrained,
 # Getting Started
 ## Prerequisites
 The following must be installed for the program to run. Packages can be installed using pip and the command line.  
--NumPy
+- NumPy
 > pip install numpy
 - Geopandas
 > pip install geopandas
