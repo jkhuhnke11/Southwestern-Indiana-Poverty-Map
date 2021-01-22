@@ -1,5 +1,6 @@
 # Interactive Poverty Map of Southwestern Indiana
 An interactive map showing poverty and ALICE (Asset Limited, Income Constrained, Employed) across zip codes located in Southwestern Indiana and Henderson County, KY. 
+Currently, Map-V2.ipynb and Map-V3.ipynb contain different data. Map-V2 contains poverty and ALICE data for 2018 and 2016. Map-V3 contains poverty, youth poverty, and average income for 2012, 2015, and 2018. Maps will be merged and updated in the future as additional data sources are found.
 
 ## Built With
 - [Python](https://www.python.org/)
